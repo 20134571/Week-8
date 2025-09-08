@@ -33,3 +33,4 @@ class TestFixedProgram(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 # This is a test
+# This is step 2 of the test
