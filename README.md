@@ -1,5 +1,5 @@
 # My ML Project
-
+![Python Tests](https://github.com/yourusername/my-ml-project/actions/workflows/python-tests.yml/badge.svg)
 This project demonstrates a basic ML workflow using Python, with unit tests and GitHub Actions integration.
 
 ## Features
